@@ -1,0 +1,1 @@
+## Understanding How to install & Run NextJS, Folder & File Structure
